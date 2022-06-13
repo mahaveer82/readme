@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahaveer Jain</h1>
 <h3 align="center">Web Developer & Coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilbaser&label=Profile%20views&color=0e75b6&style=flat" alt="kapilbaser" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahaveer82&label=Profile%20views&color=0e75b6&style=flat" alt="mahaveer82" /> </p>
 
 - 🔭 I’m currently working on web application **Online Cake Order**
 
